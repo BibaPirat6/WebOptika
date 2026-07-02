@@ -1,4 +1,4 @@
-# 👓 WebOptic — Авторский дизайн и адаптивная верстка веб-сайта магазина оптики
+# 👓 WebOptika — Авторский дизайн и адаптивная верстка веб-сайта магазина оптики
 
 ![GitHub top language](https://img.shields.io/github/languages/top/BibaPirat6/ShopOptic-site)
 ![GitHub last commit](https://img.shields.io/github/last-commit/BibaPirat6/ShopOptic-site)
